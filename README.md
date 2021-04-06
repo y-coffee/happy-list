@@ -12,9 +12,9 @@ Vue.jsで制作したログイン認証付きWebアプリケーションです�
 
 ## テストユーザー情報
 
-テストユーザーメールアドレス: list-tester@example.com
+- テストユーザーメールアドレス: list-tester@example.com
 
-テストユーザーパスワード: tester8888
+- テストユーザーパスワード: tester8888
 
 サイトURL
 ===
@@ -25,27 +25,27 @@ Vue.jsで制作したログイン認証付きWebアプリケーションです�
 使用技術一覧(言語・ライブラリ・ツール)
 ===
 
-・Vue.js 2.6.11
+- Vue.js 2.6.11
 
-・Vue Router 3.5.1
+- Vue Router 3.5.1
 
-・Vuex 3.6.2
+- Vuex 3.6.2
 
-・axios 0.21.1
+- axios 0.21.1
 
-・Firebase 8.3.0
+- Firebase 8.3.0
 
-・Adobe Photoshop(画像の編集加工)
+- Adobe Photoshop(画像の編集加工)
 
 機能一覧
 ===
 
-・ページ遷移機能(Vue Router)
+- ページ遷移機能(Vue Router)
 
-・ユーザー登録/ログイン認証機能(FirebaseのAuthenticationを利用)
+- ユーザー登録/ログイン認証機能(FirebaseのAuthenticationを利用)
 
-・ユーザー情報の保持機能(ログアウトされない限りページが閉じられてもログイン状態が保持されます/async/await及びdispatchを利用した非同期処理/Vuex)
+- ユーザー情報の保持機能(ログアウトされない限りページが閉じられてもログイン状態が保持されます/async/await及びdispatchを利用した非同期処理/Vuex)
 
-・投稿機能(FirebaseのFirestoreをデータベースに利用)
+- 投稿機能(FirebaseのFirestoreをデータベースに利用)
 
-・表示機能(Firestoreから取得したデータの表示)
+- 表示機能(Firestoreから取得したデータの表示)
