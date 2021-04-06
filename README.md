@@ -50,10 +50,10 @@ Vue.jsで制作したログイン認証付きWebアプリケーションです�
 
 - ページ遷移機能(Vue Router)
 
-- ユーザー登録/ログイン認証機能(FirebaseのAuthenticationを利用)
+- ユーザー登録/ログイン認証機能(Authenticationを利用)
 
 - ユーザー情報の保持機能(ログアウトされない限りページが閉じられてもログイン状態が保持されます/async/await及びdispatchを利用した非同期処理/Vuex)
 
-- 投稿機能(FirebaseのFirestoreをデータベースに利用)
+- 投稿機能(Firestoreをデータベースに利用)
 
 - 表示機能(Firestoreから取得したデータの表示)
